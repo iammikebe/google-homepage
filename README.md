@@ -1,1 +1,1 @@
-My actualy first project
+My actual first project
